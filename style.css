@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+   
+}
+
+.container{
+    width: 100%;
+    max-height: 600px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.input input{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    font-size: 16px;
+
+}
+
+button{
+    background-color: rgb(115, 115, 238);
+    border: none;
+    padding: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+
+
+
+}
+
+.wheather-box{
+    height: 500px;
+    border: 2px solid black;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 5px;
+   
+
+
+
+}
+
+.icon{
+    font-size: 20px;
+    margin-bottom:50px ;
+}
